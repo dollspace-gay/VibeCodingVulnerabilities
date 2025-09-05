@@ -1,6 +1,6 @@
 # ChatGPT code snippets
 
-This repository contains code only generated using GPT-5 via the OpenAI API. These code snippets were written for an XDA article to demonstrate the vulnerabilities associated with "vibe coding", and how AI-generated code requires hardening and external review before deployment in a production environment.
+This repository contains code only generated using GPT-5 via the OpenAI API. These code snippets were written for [an XDA article](https://www.xda-developers.com/tried-vibe-coding-chatgpt-vulnerabilities/) to demonstrate the vulnerabilities associated with "vibe coding", and how AI-generated code requires hardening and external review before deployment in a production environment. This code is output straight from ChatGPT without any changes, aside from repairing the syntax associated with the generated HTML in the C web server.
 
 ## MQTT stats
 
