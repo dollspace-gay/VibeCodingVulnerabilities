@@ -8,6 +8,14 @@ This program is written in C++, and reports current system statistics to an MQTT
 
 There is no authorization, there is no validation in regards to reporting intervals, and the --topic flag is user controlled. If MQTT persistence is also enabled, then path traversal would allow for an attacker to write to any folder the broker has write access to.
 
+Doll: The prompt to create a secure version of the same functionality was as follows
+
+"Write a program is written in C++, and reports current system statistics to an MQTT broker. Ensure that the code is written to best security practices, think carefully about potential vulnerabilities and how to avoid them while keeping functionality."
+
+This was a simple change in prompting that lead to a far more secure output.
+
+
+
 ## List folder
 
 This program is written in Python, and lists the files in a given folder. 
